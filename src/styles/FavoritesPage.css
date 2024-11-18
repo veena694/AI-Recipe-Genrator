@@ -1,4 +1,4 @@
-/* src/styles/FavoritesPage.css */
+
 .favorites-page {
     text-align: center;
     margin: 20px;
@@ -16,7 +16,7 @@
     display: flex;
     justify-content: center;
     gap: 20px;
-    flex-wrap: wrap;  /* This will allow images to wrap if the screen is too small */
+    flex-wrap: wrap; 
     margin-top: 20px;
   }
   

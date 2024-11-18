@@ -9,18 +9,18 @@ h2 {
   text-align: center;
 
 }
-/* App.css or main CSS file */
+
 
 html, body {
   height: 100%;
   margin: 0;
   padding: 0;
-  overflow-y: auto; /* Enable vertical scrolling */
+  overflow-y: auto; 
 }
 
 .scrollable-content {
   overflow-y: auto;
   flex-grow: 1;
-  -webkit-overflow-scrolling: touch; /* Smooth scrolling on mobile */
+  -webkit-overflow-scrolling: touch; 
 }
 

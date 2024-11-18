@@ -62,7 +62,7 @@ function RecipesPage() {
   };
 
   const handleViewFavorites = () => {
-    navigate("/favorites"); // Navigate to FavoritesPage
+    navigate("/favorites"); 
   };
 
   return (

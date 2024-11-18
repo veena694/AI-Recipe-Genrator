@@ -2,11 +2,11 @@
   max-width: 800px;
   margin: 2rem auto;
   padding: 2rem;
-  background-color: #ffffff; /* White background */
-  border: 2px solid #e0e0e0; /* Light gray border */
+  background-color: #ffffff; 
+  border: 2px solid #e0e0e0; 
   border-radius: 8px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Soft shadow */
-  text-align: center; /* Center text for titles */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+  text-align: center; 
   
 }
 
@@ -14,7 +14,7 @@
   width: 100%;
   max-width: 400px;
   border-radius: 8px;
-  margin: 0 auto 1.5rem; /* Centered and margin at the bottom */
+  margin: 0 auto 1.5rem;
 }
 
 .recipe-details-page h2 {
@@ -60,7 +60,7 @@
 }
 
 .ingredients, .instructions {
-  width: 45%; /* Two-column layout */
+  width: 45%;
 }
 
 .recipe-details-page ul {

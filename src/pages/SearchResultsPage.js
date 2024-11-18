@@ -3,7 +3,7 @@ import { useLocation, useNavigate } from 'react-router-dom';
 import "../styles/SearchResultssPage.css";
 
 const API_BASE_URL = 'https://api.spoonacular.com/recipes/findByIngredients';
-const API_KEY = '8947aeb90a7448dcabd53a297bdb21b0'; // Replace with your actual Spoonacular API key
+const API_KEY = '8947aeb90a7448dcabd53a297bdb21b0';
 
 function SearchResultsPage() {
     const [recipes, setRecipes] = useState([]);
